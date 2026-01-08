@@ -3,8 +3,14 @@
 <p align="center">
   <img src="https://i.ibb.co/Hstjc96/312447edb216ba0dd73c8a2938472a00.jpg" alt="Description of image" width="400"/>
 </p>
+<br>
+  
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=daredeviIs&color=386068)
+
+    
+<br/>
+
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=386068&label=kills)
 
 <!--
 **daredeviIs/daredeviIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

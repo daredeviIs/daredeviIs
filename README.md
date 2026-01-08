@@ -1,7 +1,7 @@
 <p align="center"> wip
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/Hstjc96/312447edb216ba0dd73c8a2938472a00.jpg" alt="Description of image" width="400"/>
+  <img src="https://i.ibb.co/gZd6cpvL/312447edb216ba0dd73c8a2938472a00.jpg" alt="Description of image" width="400"/>
 </p>
 
 <br>

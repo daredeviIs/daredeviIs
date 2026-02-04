@@ -2,11 +2,11 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/gZd6cpvL/312447edb216ba0dd73c8a2938472a00.jpg" alt="Description of image" width="400"/>
+  <img src="https://i.ibb.co/35p0BfFJ/7099ddc4845f3cdd2c1689595b663fe4.jpg" alt="Description of image" width="400"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=386068&label=kills)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=254D61&label=kills)
 
 </div>
 

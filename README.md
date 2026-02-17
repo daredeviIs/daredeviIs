@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=B0B0B0&label=knockouts)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=A1A1A1&label=knockouts)
 
 </div>
 

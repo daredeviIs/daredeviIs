@@ -2,11 +2,11 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/35p0BfFJ/7099ddc4845f3cdd2c1689595b663fe4.jpg" alt="Description of image" width="400"/>
+  <img src="https://i.ibb.co/3m7T7J8L/matthew-murdock-ezgif-com-effects-1.gif" alt="Description of image" width="400"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=254D61&label=kills)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=B0B0B0&label=kills)
 
 </div>
 

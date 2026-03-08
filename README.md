@@ -2,7 +2,7 @@
 </p>
 <p align="center">
 
-  <img src="https://images.makearmy.io/i/55ce8d0c-c990-42cf-a847-d7645b19ad71.gif" alt="Description of image" width="400"/>
+  <img src="https://i.ibb.co/JRjL1WsZ/20260308-014857.gif" alt="Description of image" width="400"/>
 </p>
 <div align="center">
   

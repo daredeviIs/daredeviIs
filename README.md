@@ -2,11 +2,11 @@
 </p>
 <p align="center">
 
-  <img src="https://images.makearmy.io/i/d1741cb8-189b-44fb-a55f-d2bf2494c67d.gif" alt="Description of image" width="400"/>
+  <img src="https://images.makearmy.io/i/55ce8d0c-c990-42cf-a847-d7645b19ad71.gif" alt="Description of image" width="400"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=7F7536&label=north_stars)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=911213&label=north_stars)
 
 </div>
 

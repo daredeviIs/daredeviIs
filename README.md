@@ -2,7 +2,7 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/MDkmks6R/5d0402b6be5a5abd28aedbc7ccfe7ed4.jpg" alt="Description of image" width="380"/>
+  <img src="https://i.ibb.co/RT5GJ8sL/Screenshot-20260329-031309-Free-Adblocker-Browser.jpg" alt="Description of image" width="380"/>
 </p>
 <div align="center">
   

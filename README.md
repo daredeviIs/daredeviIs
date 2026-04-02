@@ -8,4 +8,5 @@
   
 ![](https://komarev.com/ghpvc/?username=daredeviIs&color=798174&label=north_stars)
 
-<div/>
+
+<img src="https://i.ibb.co/Xr5Sf83K/Screenshot-20260402-014950-Discord.jpg" alt="Description of image" width="100"/>

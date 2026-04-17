@@ -6,4 +6,4 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=224A52&label=prayers)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=492923&label=prayers)

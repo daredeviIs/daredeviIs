@@ -2,7 +2,7 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/BKT43gC6/c9b54534e8979c5d5565276ed96b5ffb.jpg" alt="Description of image" width="380"/>
+  <img src="https://i.ibb.co/RTjxLKMn/d60728872e7fa6e8a06c7934eb816a08.jpg" alt="Description of image" width="380"/>
 </p>
 <div align="center">
   

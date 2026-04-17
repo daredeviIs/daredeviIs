@@ -2,8 +2,8 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/LXGZHK0t/d60728872e7fa6e8a06c7934eb816a08.jpg" alt="Description of image" width="380"/>
+  <img src="https://i.ibb.co/cSGNWPFc/1179ee41b7de274b23c8db77fa611781.gif" alt="Description of image" width="380"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=442B1E&label=north_stars)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=826D1E&label=prayers)

@@ -6,4 +6,4 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=442B1E&label=internal_compasses)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=442B1E&label=vigilantes)

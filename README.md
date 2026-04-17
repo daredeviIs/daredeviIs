@@ -2,8 +2,8 @@
 </p>
 <p align="center">
 
-  <img src="https://i.ibb.co/jvP1KHYB/Screenshot-20260414-224506-Free-Adblocker-Browser.jpg" alt="Description of image" width="380"/>
+  <img src="" alt="Description of image" width="380"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=6D4813&label=prayers)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=A12828&label=kills)

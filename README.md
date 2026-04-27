@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  [atabook](https://dexmatt.atabook.org)ㅤㅤㅤㅤ[rentry]()ㅤㅤㅤㅤ[match]()
+  [atabook](https://dexmatt.atabook.org)ㅤ[rentry]()ㅤ[match]()
 </div>
 <p align="center">
 

@@ -6,7 +6,7 @@
 
 
 
-  <img src="https://i.ibb.co/yF8KcnHd/Screenshot-20260329-031309-Free-Adblocker-Browser.jpg" alt="Description of image" width="280"/>
+  <img src="https://i.ibb.co/yF8KcnHd/Screenshot-20260329-031309-Free-Adblocker-Browser.jpg" alt="Description of image" width="265"/>
 </p>
 <div align="center">
   

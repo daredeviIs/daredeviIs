@@ -7,7 +7,7 @@
 
 
 
-  <img src="https://i.ibb.co/gKyLrZ1/twitter-gif-2042361992959475860-69d98968bc9ca.gif" alt="Description of image" width="335"/>
+  <img src="https://i.ibb.co/d42ZLkMK/20260411-195652.jpg" alt="Description of image" width="335"/>
 </p>
 <div align="center">
   

@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=080808&label=clients)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=080808&label=attorneys)
 <br>
 
 <br/>

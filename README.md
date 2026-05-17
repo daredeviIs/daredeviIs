@@ -7,11 +7,11 @@
 
 
 
-  <img src="https://i.ibb.co/0jvw8PSZ/a49a9a1f2523f07299ff9a90ce837484.jpg" alt="Description of image" width="335"/>
+  <img src="https://i.ibb.co/xtrYKVy4/5e88c85c426a718a29ec1aa4edacd06a.jpg" alt="Description of image" width="335"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=080808&label=attorneys)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=080808&label=lawyers)
 <br>
 
 <br/>

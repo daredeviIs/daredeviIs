@@ -7,11 +7,11 @@
 
 
 
-  <img src="https://i.ibb.co/zHF5L38g/f84f4c3ba766f0ed22252139651e198e.jpg" alt="Description of image" width="335"/>
+  <img src="https://i.ibb.co/gL8S6DTj/8a411fb108237bcf11325c158a645b18.jpg" alt="Description of image" width="335"/>
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=080808&label=prayers)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=FF7722&label=papayas)
 <br>
 
 <br/>

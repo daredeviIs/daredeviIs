@@ -7,7 +7,8 @@
 
 
 
-  <img src="https://i.ibb.co/fdyQmBn1/ed1dde507d42468a65396015ad583cfa.jpg" alt="Description of image" width="335"/>
+  <img width="540" height="450" alt="1000021885" src="https://github.com/user-attachments/assets/29a83c49-c5fd-44a1-b6f6-d41b80e47cf8" />
+
 </p>
 <div align="center">
   

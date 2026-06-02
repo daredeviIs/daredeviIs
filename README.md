@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=F1661C&label=⁸¹)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=F1661C&label=papayas)
 <br>
 
 <br/>

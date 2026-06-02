@@ -7,7 +7,7 @@
 
 
 
-  <img src="https://i.ibb.co/5XtYVTtS/c49c98e7d4321177d1a8406689b08d9a.jpg" alt="Description of image" width="335"/>
+  <img src="https://i.ibb.co/hxK92zHK/767320c61720f7a329690271d5122942.jpg" alt="Description of image" width="335"/>
 </p>
 <div align="center">
   

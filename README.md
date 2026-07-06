@@ -7,14 +7,14 @@
 
 
 
-<img width="290" height="200" alt="1000021795" src="https://github.com/user-attachments/assets/15a5a1a5-7b1a-4ab4-810d-e900f42401fd" />
+ <img src="https://i.ibb.co/35zcdTk8/Untitled109-20260705213200.png" alt="Description of image" width="335"/>
 
 
 
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=6FC3CE&label=papayas)
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=6FC3CE&label=⚞^._.^⚟)
 <br>
 
 <br/>

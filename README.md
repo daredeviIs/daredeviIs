@@ -14,4 +14,4 @@
 </p>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=daredeviIs&color=36E3FF&label=⚞_^._.^_⚟)ㅤ
+![](https://komarev.com/ghpvc/?username=daredeviIs&color=36E3FF&label=𐔌՞._.՞𐦯)ㅤ
